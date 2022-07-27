@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Anthony!
 -  Or, you can call me An, as my Chinese name.
-I'm now working on the field of frontend development.
-
-
+-  Currently contributing to field of Computer Graphics, especially in Computational Design and Fabrication.
+-  Now having postgraduate curriculum at CUHK.
